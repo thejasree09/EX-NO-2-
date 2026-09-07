@@ -162,5 +162,7 @@ int main() {
 
 Output:
 <img width="515" height="495" alt="image" src="https://github.com/user-attachments/assets/dce6b944-808c-4f6a-b511-365f081e94c1" />
-Result:
+
+
+### Result:
 Thus, the Playfair Cipher algorithm was successfully implemented using the C language.
