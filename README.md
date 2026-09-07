@@ -1,6 +1,8 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
- 
+## NAME:THEJA SREE G
+## REG NO:212224110056
+## DEPT:CSE(IOT)
 
 ## AIM:
  
@@ -159,5 +161,6 @@ int main() {
 
 
 Output:
-<img width="517" height="418" alt="image" src="https://github.com/user-attachments/assets/81868db7-f4f2-4344-94b1-1b3be2a121a4" />
-
+<img width="515" height="495" alt="image" src="https://github.com/user-attachments/assets/dce6b944-808c-4f6a-b511-365f081e94c1" />
+Result:
+Thus, the Playfair Cipher algorithm was successfully implemented using the C language.
